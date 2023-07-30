@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "basic_microcontroller")(type "KiCad")(uri "${KICAD7_3RD_PARTY}/basic_microcontroller.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SPEJ110100
+D DPDT Momentary Push Button Switch, PCB, 14V dc
+K
+F 
+$ENDCMP
+#
+#End Doc Library

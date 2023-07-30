@@ -1,0 +1,64 @@
+PCBNEW-LibModule-V1  2023-07-09 20:06:04
+# encoding utf-8
+Units mm
+$INDEX
+4392
+$EndINDEX
+$MODULE 4392
+Po 0 0 0 15 64ab051c 00000000 ~~
+Li 4392
+Cd 4392-3
+Kw Capacitor
+Sc 0
+At SMD
+AR 
+Op 0 0 0
+T0 0.000 -2.375 1.27 1.27 0 0.254 N V 21 N "C**"
+T1 0.000 -2.375 1.27 1.27 0 0.254 N I 21 N "4392"
+DS 6 -3.5 -6 -3.5 0.2 24
+DS -6 -3.5 -6 1.5 0.2 24
+DS -6 1.5 6 1.5 0.2 24
+DS 6 1.5 6 -3.5 0.2 24
+DS 7.2 -7.25 -7.2 -7.25 0.1 24
+DS -7.2 -7.25 -7.2 2.5 0.1 24
+DS -7.2 2.5 7.2 2.5 0.1 24
+DS 7.2 2.5 7.2 -7.25 0.1 24
+DS 6 1.5 -6 1.5 0.1 21
+$PAD
+Po 3.000 -3.5
+Sh "1" R 1.000 5.500 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 1.000 -3.5
+Sh "2" R 1.000 5.500 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -1.000 -3.5
+Sh "3" R 1.000 5.500 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -3.000 -3.5
+Sh "4" R 1.000 5.500 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po 5.400 -1.25
+Sh "MP1" R 1.600 3.000 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$PAD
+Po -5.400 -1.25
+Sh "MP2" R 1.600 3.000 0 0 0
+At SMD N 00888000
+Ne 0 ""
+$EndPAD
+$EndMODULE 4392
+$EndLIBRARY

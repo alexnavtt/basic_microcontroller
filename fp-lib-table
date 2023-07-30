@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "basic_microcontroller")(type "KiCad")(uri "${KIPRJMOD}/basic_microcontroller.pretty")(options "")(descr ""))
+)

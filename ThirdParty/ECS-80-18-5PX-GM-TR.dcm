@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ECS-80-18-5PX-GM-TR
+D Crystals 8.000 MHz 18 pF CSM-7X +/-30/30 ppm -20 - +70C RoHS
+K
+F https://ecsxtal.com/store/pdf/csm-7x.pdf
+$ENDCMP
+#
+#End Doc Library
